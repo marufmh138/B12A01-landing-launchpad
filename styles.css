@@ -156,3 +156,28 @@ gap: 10px;
     margin: none;
     gap: none;
 }
+/* Focus Section */
+.focus-section{
+    background-color: #FFFFFF;
+    height: 696.77px;
+     /* padding: 150px 71px; */
+     border-radius: 14px;
+    
+}
+.focus-items{
+    text-align: center;
+}
+.focus-title{
+    font-size: 50px;
+    font-weight: bold;
+}
+.focus-des{
+color: rgba(0, 0, 0, 0.5);
+}
+.focus-img{
+    width: 840px;
+    height: 365.77px;
+    border-radius: 48px;
+    margin: 0px 150px;
+    margin-top: 20px;
+}
