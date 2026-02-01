@@ -53,3 +53,19 @@ nav{
     font-size: 34px;
     font-weight: bold;
 }
+/* banner style */
+.banner{
+   text-align: center;
+   margin: 100px 100px;
+}
+.banner button{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.banner-title{
+    font-size: 65px;
+    font-weight: bold;
+    width: 950px;
+    height: 152px;
+    margin:0px auto;
+}
