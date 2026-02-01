@@ -37,6 +37,19 @@ main section{
     padding: 12px 36px;
     border-radius:10px ;
     cursor: pointer;
+    
+}
+.primary-btn-2{
+    font-size: 16px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #4E47FF;
+    border: none;
+    padding: 12px 36px;
+    border-radius:10px ;
+    cursor: pointer;
+    width: 497px;
+    height: 62px;
 }
 button:hover{
     background-color: aqua;
@@ -180,4 +193,23 @@ color: rgba(0, 0, 0, 0.5);
     border-radius: 48px;
     margin: 0px 150px;
     margin-top: 20px;
+}
+/* Touch Section  */
+.touch-section{
+    display: flex;
+    height: 632px;
+}
+.touch-intro{
+    font-size: 97px;
+    font-weight: bold;
+}
+
+.touch-section input[type="text"], .touch-section input[type="email"], .touch-section textarea{
+    display: block;
+    padding: 20px 32px;
+    background-color:#FFFFFF;
+    border: none;
+    width: 428px;
+    margin-bottom: 20px;
+    border-radius: 10px;
 }
